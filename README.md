@@ -32,4 +32,4 @@ Any user who forks this repository must abide by the following rules
 
 ## Logo
 
-![logo][SVC/SVC/public/logo.jpeg]
+![logo](SVC/SVC/public/logo.jpeg)
